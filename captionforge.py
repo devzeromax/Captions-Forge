@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║            Captions Forge v2.0 — Free Subtitle Generator        ║
 ║   Auto-installs · GPU Accelerated · Open Source (MIT)        ║
-║   GitHub: https://github.com/YOUR_USERNAME/captions-forge       ║
+║   GitHub: https://github.com/devzeromax/Captions-Forge       ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
