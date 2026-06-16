@@ -1,7 +1,7 @@
 # Captions-Forge
 Captions Forge — open-source Windows desktop app for offline subtitle &amp; caption generation. Privacy-first
 <p align="center">
-  <img src="assets/banner.png" alt="Captions Forge" width="100%" />
+  <img src="banner.png" alt="Captions Forge" width="100%" />
 </p>
 
 <h1 align="center">Captions Forge</h1>
